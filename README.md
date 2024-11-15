@@ -13,9 +13,9 @@
 ![task4](https://github.com/user-attachments/assets/606874e1-2fde-4bb6-96f2-71ac1c81d44e)
 
 #### 5. Добавить меню сайта (Меню сайта должно быть на каждой странице, онодолжно быть одинаковым)
-#### a. Главная
-#### b. Каталог
-#### c. Контакты
+##### a. Главная
+##### b. Каталог
+##### c. Контакты
 ![task5_total](https://github.com/user-attachments/assets/44af8b47-544f-48f9-adec-7e41bd0a8a90)
 
 
@@ -33,19 +33,30 @@
 ![task9_total](https://github.com/user-attachments/assets/c2a3aa43-5211-41dd-98d0-b074af45689c)
 
 #### 10. Рядом с файлом index.html создать папку catalog
-### 11. Внутри папки catalog создать файл [catalog.html](https://github.com/KirillCh22/HTML-CSS_Les1/blob/main/catalog/catalog.html)
+#### 11. Внутри папки catalog создать файл [catalog.html](https://github.com/KirillCh22/HTML-CSS_Les1/blob/main/catalog/catalog.html)
 ![task10_11](https://github.com/user-attachments/assets/8cc0c258-c339-4fb7-86eb-c24b2ca0db01)
 
 #### 12. На странице “каталог” добавить структуру html документа
 #### 13. Добавить меню сайта (такое же как на главной странице)
 ![task12_13_total](https://github.com/user-attachments/assets/ce2f9f3d-6a67-4ffa-93d2-e6202a93610b)
 
-14. Добавить Заголовок h1 с текстом “Каталог” 15. Создать параграф p с произвольным текстом из 150 слов для этого вводим“lorem150” и нажимаем tab
-16. Сделать переходы с главной страницы на страницу каталог, при нажатиинаменю сайта и переход со страницы каталог на главную страницу
-17. Создать папку img и разместить ее рядом с index.html
-18. Добавить в папку img произвольные фотографии товаров, по вашей тематикеможно выбрать любое фото
-https://www.freepik.com/search?format=search&orientation=portrait&query=products19. На странице “Каталог” после заголовка h1 и параграфа p добавить
-a. Изображение товара
-b. Название товара
-c. Описасние товара
-20. Добавить 3 таких товара на страницу каталога (не следует добавлять более3хтоваров)
+#### 14. Добавить Заголовок h1 с текстом “Каталог” 
+![task14_total](https://github.com/user-attachments/assets/6f872325-ae65-4e16-bda9-0def43a1a08d)
+
+#### 15. Создать параграф p с произвольным текстом из 150 слов для этого вводим“lorem150” и нажимаем tab
+![task15_total](https://github.com/user-attachments/assets/f65eb4b6-d174-4459-bd68-71cc3ecee13c)
+
+#### 16. Сделать переходы с главной страницы на страницу каталог, при нажатиинаменю сайта и переход со страницы каталог на главную страницу
+![task16_total](https://github.com/user-attachments/assets/9a246013-2ff4-46a1-a72b-d9437f49d525)
+
+#### 17. Создать папку img и разместить ее рядом с index.html
+![task17](https://github.com/user-attachments/assets/e2f9fbc0-ef9e-42e4-a15b-8e855e41a1e9)
+
+#### 18. Добавить в папку img произвольные фотографии товаров, по вашей тематикеможно выбрать любое фото https://www.freepik.com/search?format=search&orientation=portrait&query=products
+#### 19. На странице “Каталог” после заголовка h1 и параграфа p добавить:
+##### a. Изображение товара
+##### b. Название товара
+##### c. Описасние товара
+#### 20. Добавить 3 таких товара на страницу каталога (не следует добавлять более 3х товаров)
+![task18_total](https://github.com/user-attachments/assets/5ced8913-e510-428f-b414-005df8677ae4)
+
